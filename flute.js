@@ -65,3 +65,4 @@ function verifyClicked(button) {
 }
 
 addEvents();
+console.log("version 1.1");
